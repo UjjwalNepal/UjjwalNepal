@@ -1,5 +1,5 @@
 # 💫 About Me:
-Enable AI on your traditional DBs
+Working on: Enable AI on your traditional DBs
 
 
 ## 🌐 Socials:
